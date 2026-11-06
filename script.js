@@ -1,4 +1,4 @@
-const NUMERO_WHATSAPP = "5584920009847";
+const NUMERO_WHATSAPP = "5584981436968";
 
 const MENSAGEM = "Olá! Vi o site do Pardes e gostaria de saber mais.";
 
